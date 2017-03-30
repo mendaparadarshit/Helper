@@ -2,7 +2,7 @@
 This will help you to convert date time format,file manger,alert controller,actionsheet controller, distance between two latitude and longitude ,Url validation
 
 
-##//File
+File
 -----------
 
 ```
@@ -11,7 +11,7 @@ This will help you to convert date time format,file manger,alert controller,acti
 +(void)removeFileFromPath :(NSURL *)url;
 ```
 
-##//Datetime
+Datetime
 -----------
 
 ```
@@ -21,7 +21,7 @@ This will help you to convert date time format,file manger,alert controller,acti
 ```
 
 
-##//Alert
+Alert
 -----------
 
 ```
@@ -33,7 +33,7 @@ This will help you to convert date time format,file manger,alert controller,acti
 ```
 
 
-##//Localization
+Others
 -----------
 
 ```

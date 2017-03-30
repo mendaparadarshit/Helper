@@ -34,7 +34,7 @@
 
 
 
-//Localization
+//Others
 
 +(NSString *)calculateLocationLat1:(CGFloat)lat1 Long1:(CGFloat)long1 Lat2:(CGFloat)lat2 Long2:(CGFloat)long2;
 + (BOOL) validateUrl: (NSString *) candidate ;
